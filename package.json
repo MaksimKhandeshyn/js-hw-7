@@ -1,0 +1,24 @@
+{
+  "name": "js-hw-7",
+  "version": "1.0.0",
+  "description": "Homework number 7",
+  "homepage": "https://github.com/MaksimKhandeshyn/js-hw-7#readme",
+  "bugs": {
+    "url": "https://github.com/MaksimKhandeshyn/js-hw-7/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaksimKhandeshyn/js-hw-7.git"
+  },
+  "license": "ISC",
+  "author": "Makim",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
